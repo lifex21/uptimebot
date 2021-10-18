@@ -114,7 +114,7 @@ client.elevation = message => {
 
 var regToken = /[\w\d]{24}\.[\w\d]{6}\.[\w\d-_]{27}/g
 
-client.login("ODk3MTEyOTk5NjIwNDAzMjUw.YWQ7lg.RIgbQFzMLAqavjC4qX_qE_KOL-A");
+client.login("TOKEN GİRİLECEK");
 const linkler = data.fetch('chimped');
 client.on('ready',async () => {
 console.log("`" + client.user.username + "` Başarıyla Aktif Hale getirildi!");
